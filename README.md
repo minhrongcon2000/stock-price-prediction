@@ -10,3 +10,6 @@ Any missing dependencies can be installed by [pip](https://pypi.org/project/pip/
 
 ## Instruction
 Run rnn.py to see the results.
+
+## Remark
+This model's performance is so poor and there is so many things to improve with this. For example, we can add another LSTM unit to improve the performance
